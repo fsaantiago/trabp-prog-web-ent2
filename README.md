@@ -1,17 +1,30 @@
-## Running React on Repl.it
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## Trabalho de Programação Web - Portifólio de fotografia no Repl.it
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+Este trabalho foi criado inicialmente em HTML e CSS apenas, e posteriormente adaptado com React.js.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+O intuito deste projeto é aplicar na prática os conhecimentos adquiridos em React.js e estruturar os componentes.
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+Link para acesso: https://trabp-prog-web-ent2.fsaantiago.repl.co/
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+## Stack utilizada
 
-### Typescript
+**Front-end:** React, HTML, CSS, Flexbox
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+**Plataforma:** Replit.it
+
+## Descrição do desafio
+
+### Desenvolver uma aplicação web para um cliente externo e não técnico usando React.
+
+- É livre a escolha de layout e as informações apresentadas pela aplicação.
+- A estética do site (isto é, aspectos visuais) será avaliada. Exemplo: estilo, cores, fontes, posicionamento, resolução das imagens, entre outros. Para tornar sua aplicação mais profissional, recomendo que você se inspire em exemplos reais de sites bem projetados, procurando alcançar um visual atrativo e impactante.
+- As funcionalidades implementadas na aplicação serão cuidadosamente avaliadas quanto à sua relevância e importância para atender às necessidades do cliente. Serão considerados critérios como a utilidade das funcionalidades, a facilidade de uso e a experiência do usuário, a aparência profissional, a inovação e o valor agregado proporcionado ao cliente. Recomendamos que você verifique se as funcionalidades implementadas estão alinhadas com as minhas expectativas de entrega, tanto durante o processo de construção quanto antes de iniciar o desenvolvimento.
+- A organização e legibilidade do código serão avaliadas. Certifique-se de que o seu código está bem estruturado e sem erros.
+- A indentação é um recurso fundamental para a legibilidade de um código e será avaliada. Certifique-se de que o seu código está indentado.
+- Dívida sua aplicação em componentes e use as melhores práticas do React para criar os componentes da aplicação.
+- Use o repl.it para a criação do projeto. Crie um projeto **“React Javascript”**.
+- Use somente os modelos de Layout Flexbox ou CSS Grid.
+- **NÃO** use as propriedades CSS obsoletas, como *" float: left", "float:righ", "clear: ", “position: absolute”, etc.*
+- **NÃO** use as tags obsoletas, como *<.font>, <.center>, <.br>, <.table>*(para posicionar elementos). Utilize as capacidades do CSS para posicionamento.
+- Certifique-se de que o seu código HTML e CSS está em conformidade com as recomendações do W3C. Use o "The W3C Markup Validation Service" (https://validator.w3.org/Links to an external site.) para avaliar a qualidade do seu código HTML e o "CSS Validation Service" (https://jigsaw.w3.org/css-validator/Links to an external site.) para avaliar a qualidade do seu código CSS.
