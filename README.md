@@ -1,11 +1,11 @@
 
 ## Trabalho de Programação Web - Portifólio de fotografia no Repl.it
 
-Este trabalho foi criado inicialmente em HTML e CSS apenas, e posteriormente adaptado com React.js.
+Este trabalho foi criado inicialmente em HTML e CSS apenas (o que pode ser consultado [clicando aqui](https://github.com/fsaantiago/trab-prog-web)), e posteriormente adaptado com React.js.
 
 O intuito deste projeto é aplicar na prática os conhecimentos adquiridos em React.js e estruturar os componentes.
 
-Link para acesso: https://trabp-prog-web-ent2.fsaantiago.repl.co/
+Link para acesso: [Portifólio em React](https://trabp-prog-web-ent2.fsaantiago.repl.co/)
 
 ## Stack utilizada
 
